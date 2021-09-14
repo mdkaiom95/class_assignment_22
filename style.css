@@ -1,0 +1,76 @@
+body h1 h2 h3 h4 h5 h6{
+    font-family: 'Work Sans', sans-serif;
+}
+.nav-item{
+    margin-right: 20px !important;
+}
+.navbar img {
+    max-width: 100%;
+    width: 95px;
+}
+.banner-content {
+    margin-top: 200px;
+    margin-right: 24px;
+}
+.banner-content .btn{
+    background-color: #8490ff;
+    color: white;
+}
+/* 1st about */
+.about-content .btn{
+    background-color: #8490ff;
+    color: white;
+}
+.about-section{
+    background: #f7f9ff;
+}
+.about-img img {
+    max-width: 103% !important;
+    border: 2px solid #0000001c;
+}
+.about-content{
+    margin-left: 50px;
+}
+/* 2nd about */
+.number-counter{
+    background-color: #8490ff;
+}
+.about-text-left{
+    margin-top: 120px;
+}
+.about-text-left .lead {
+    font-size: 25px;
+    line-height: 2.7rem;
+}
+/* cards */
+.card h5{
+    margin-bottom: 45px;
+}
+.card-num h1 {
+    background-color: #f9f9ff;
+    display: inline-block !important;
+    border-radius: 50%;
+    ewidth: 50px;
+    padding: 30px;
+}
+.card img{
+    width: 40%;
+}
+.my-cards-2 .card{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+}
+.my-cards-2 {
+    padding-bottom: 66px;
+}
+.about-2nd{
+    padding-bottom: 60px;
+}
+/* about end */
+.contnt-form-div .card{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+    padding: 40px;
+}
+.footer-top {
+    margin-top: 73px;
+    margin-left: 25px;
+}
